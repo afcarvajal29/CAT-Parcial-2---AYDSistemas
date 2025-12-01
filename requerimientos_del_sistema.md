@@ -11,7 +11,7 @@ El sistema debe permitir que cada usuario vea únicamente sus propias solicitude
 
 **RF-03. Asignación y gestión de solicitudes**
 
-El sistema debe permitir que un técnico tome una solicitud, cambie su estado (Pendiente → En proceso → Cerrada) y deje registro de cada cambio (una especie de auditoria).
+El sistema debe permitir que un técnico tome una solicitud, cambie su estado (Pendiente -> En proceso -> Cerrada) y deje registro de cada cambio (una especie de auditoria).
 
 **RF-04. Notificaciones de cambios**
 
